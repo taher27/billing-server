@@ -1,0 +1,19 @@
+name,description,price
+John Doe,This is a dummy description,100
+Jane Smith,Another dummy description,200
+12345,A description with a numeric name,300
+Alice,Missing description,
+Bob,Inconsistent data type for price,abc
+,Empty name field,400
+Charlie,Dummy description with no price
+7890,Data with numeric name,
+Mike,This is a sample description,500
+Nancy,Another sample description,600
+,Missing both name and price
+Olivia,Description with no price,
+34567,Numeric name and no price
+,Empty name and description,700
+Ethan,Inconsistent data type for price,xyz
+,Missing name and description,800
+Sophia,Sample description,900
+Liam,Another sample description,1000

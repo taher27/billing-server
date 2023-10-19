@@ -1,0 +1,21 @@
+id,name,description,price
+1,Jane Doe,Product Manager,50000
+2,John Doe,Software Engineer,70000
+3,,Data Scientist,80000
+4,Richard Roe,Marketing Specialist,
+5,Jane Smith,Product Designer,60000
+6,John Smith,,65000
+7,12345,Human Resources Manager,55000
+8,Emily Doe,Graphic Designer,75000
+9,Michael Roe,,90000
+10,Emma Smith,Front-End Developer,85000
+11,Andrew Doe,Back-End Developer,95000
+12,,UX/UI Designer,70000
+13,Olivia Roe,Full Stack Developer,
+14,James Smith,DevOps Engineer,80000
+15,William Doe,,85000
+16,Charlotte Roe,Quality Assurance Engineer,90000
+17,Liam Smith,Scrum Master,95000
+18,,Project Manager,100000
+19,Amelia Doe,Information Security Analyst,
+20,Oliver Smith,,105000
